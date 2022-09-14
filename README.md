@@ -3,4 +3,4 @@ my first project
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@rinki.sharma](https://www.github.com/RinkiDS/first_project)
