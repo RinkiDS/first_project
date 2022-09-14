@@ -9,7 +9,7 @@ PROJECT_NAME = "First Project"
 
 setuptools.setup(
     name=f"{PKG_NAME}-{USER_NAME}",
-    version="0.0.1",
+    version="0.0.2",
     author=USER_NAME,
     author_email="rinki.sharma@gmail.com",
     description="A small package for perceptron",
@@ -28,7 +28,7 @@ setuptools.setup(
     packages=setuptools.find_packages(where="src"),
     python_requires=">=3.6",
     install_requires=[
-        "numpy==1.21.4",
+        "numpy==1.2.4",
         "pandas==1.3.4",
         "joblib==1.1.0"
     ]
